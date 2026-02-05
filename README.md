@@ -1,2 +1,3 @@
 # Sastaa.com
-E-commerce wedsite
+E-commerce website
+Author - Harshal Pimpalkar
